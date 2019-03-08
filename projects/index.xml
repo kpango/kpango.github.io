@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://kpango.com/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kpango.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/projects/gache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/projects/gache/</guid>
+      <description>gache is ultra fast lock-free cache library using concurrent map &amp;amp; xxhash algorithm.
+Gache is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/projects/garm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/projects/garm/</guid>
+      <description>Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones. Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/projects/gimbal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/projects/gimbal/</guid>
+      <description>Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio &amp;amp; Yahoo Japan</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/projects/glg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/projects/glg/</guid>
+      <description>glg is faster than Go standard logger and provides leveled logging and colorized output option.
+Glg is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/projects/gongt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/projects/gongt/</guid>
+      <description>Gongt is golang sdk for ngt core</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/projects/ngtd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/projects/ngtd/</guid>
+      <description>NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan.</description>
+    </item>
+    
+  </channel>
+</rss>
