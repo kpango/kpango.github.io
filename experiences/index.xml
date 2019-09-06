@@ -54,11 +54,23 @@ I was in charge of advising the HR team on what kind of engineers are needed for
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-swat/</guid>
-      <description>SWAT is a task force team gathering the most skillful in-house engineers. SWAT participates in various projects inside the company in order to resolve different internal technical problems.
+      <description>SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company in order to resolve different internal technical problems.
 The details of the key projects are mentioned in below.
- Kubernetes as a Service Authorization Platform Garm
-Engineer &amp;amp; Chief Architect 2018&amp;frasl;4~present
-I have designed and developed Kubernetes Authorization Platform which is called Garm. Base on the concept of SSoT, Garm can integrate the management system and the access control system of hundreds of Kubernetes clusters in Yahoo!</description>
+ In-house Centralized Customer Services Platform
+Architectural Adviser 2019&amp;frasl;6~2019&amp;frasl;8
+I supported new In-house centralized customer service platform team as an architectural adviser, we already have over 200 CS tools in our company, we cannnot improve cs quality and cannnot analyze cs datas, so we need new CS platform, that integrates whole functionality of current cs system and we have to care about CS data security and analytical data structure and data flow.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kpango.com/experiences/yahoo-techlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpango.com/experiences/yahoo-techlab/</guid>
+      <description>Tech Lab is R&amp;amp;D department, we work closely with our services and provide new technology to services.
+Currently we work on video analysis &amp;amp; advertisement optimization by image analysis &amp;amp; shopping item recommendation by using image feature vector analysis.
+ Next Generation Vector Search Engine Platform Founder &amp;amp; Lead Developer (Go/C++/Pyhton/Kubernetes/OpenStack) 2019&amp;frasl;8~present
+Development of approximate k-nearest-neighbor graph-tree dense vector search engine, that can be used in a wide range of fields such as YahooJAPAN&amp;rsquo;s recommendation and image search and video analysis.</description>
     </item>
     
   </channel>
