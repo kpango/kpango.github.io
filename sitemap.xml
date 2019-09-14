@@ -4,7 +4,6 @@
   
   <url>
     <loc>https://kpango.com/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -114,27 +113,22 @@
   
   <url>
     <loc>https://kpango.com/awards/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
