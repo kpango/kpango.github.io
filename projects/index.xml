@@ -101,7 +101,7 @@ Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/vald/</guid>
-      <description>Vald is high scalable distributed high-speed approximate nearest neighbour dense vector search engine.
+      <description>Vald is a highly scalable distributed high-speed approximate nearest neighbour dense vector search engine.
 Yahoo! JAPAN uses vald for their similar image search engine.</description>
     </item>
     
