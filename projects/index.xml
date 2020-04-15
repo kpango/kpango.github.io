@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-authorizer/</guid>
-      <description>Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorisation check logic.</description>
+      <description>Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-client-sidecar/</guid>
-      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorisation credential from Athenz server.</description>
+      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/authorization-proxy/</guid>
-      <description>Authorization-Proxy is Kubernetes sidecar container to provide a common authentication and authorisation interface for the user. Which enables authentication and authorisation check for specific URL resources.
+      <description>Authorization-Proxy is Kubernetes sidecar container to provide a common authentication and authorization interface for the user. Which enables authentication and authorization check for specific URL resources.
 It fetches the policies from yahoo&amp;rsquo;s Athenz. And provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject the user&amp;rsquo;s specific URL request.</description>
     </item>
     
@@ -44,7 +44,7 @@ It fetches the policies from yahoo&amp;rsquo;s Athenz. And provide a reverse pro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/gache/</guid>
-      <description>gache is ultra-fast lock-free cache library using a concurrent map &amp;amp; xxhash algorithm.
+      <description>gache is an ultra-fast lock-free cache library using a concurrent map &amp;amp; xxhash algorithm.
 Gache is used in many of Yahoo Japan&amp;rsquo;s Go language platforms.</description>
     </item>
     
@@ -54,7 +54,7 @@ Gache is used in many of Yahoo Japan&amp;rsquo;s Go language platforms.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/garm/</guid>
-      <description>Garm is API for a Kubernetes authorisation webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.
+      <description>Garm is an API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.
 Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</description>
     </item>
     
@@ -73,7 +73,7 @@ Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manag
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/glg/</guid>
-      <description>glg is faster than Go standard logger and provides levelled logging and colourised output option.
+      <description>glg is faster than Go standard logger and provides leveled logging and colorized output option.
 Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</description>
     </item>
     
@@ -92,7 +92,7 @@ Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/ngtd/</guid>
-      <description>NGTD is a VectorDatabase that provides approximately neighbourhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now NGTD was replaced to Vald.</description>
+      <description>NGTD is a VectorDatabase that provides approximately neighborhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now, NGTD will replace with Vald.</description>
     </item>
     
     <item>
@@ -101,7 +101,7 @@ Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/vald/</guid>
-      <description>Vald is a highly scalable distributed high-speed approximate nearest neighbour dense vector search engine.
+      <description>Vald is a highly scalable distributed high-speed approximate nearest neighbor dense vector search engine.
 Yahoo! JAPAN uses vald for their similar image search engine.</description>
     </item>
     
