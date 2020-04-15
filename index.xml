@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/angelhack-2016/</guid>
-      <description>Our team has developed an automatic photo organizing application. It is an application that makes it easy to see the album by analyzing the image of the photo and performing appropriate foldering. For core functions, we perform machine learning and Vector Search using NGT, and we conduct similarity comparison via API.</description>
+      <description>Our team has developed an automatic photo organisation application. It is an application that makes it easier to see the album by analysing the images of the photos, classifying them appropriately, and saving them in the collection. Regarding core functions, we perform machine learning using NGT and vector search and achieve a similar comparison using API.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/hacku-2014/</guid>
-      <description>I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and bluetooth technology</description>
+      <description>I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and Bluetooth technology.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/pwc-2017/</guid>
-      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
+      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/sbcloud-2016/</guid>
-      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
+      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -52,7 +52,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/nojima/</guid>
-      <description>As an internship, I gained experience in the development of EC site back-end systems, in-house Q&amp;amp;A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;amp;A system and learnt to lead a team.</description>
+      <description>As an internship, I gained experience in the development of EC site backend systems, in-house Q&amp;amp;A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;amp;A system and learnt to lead a team.</description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/softbank/</guid>
-      <description>I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team, and developed the deployment prediction software creating my own feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.</description>
+      <description>I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team. I developed the deployment prediction software creating my feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.</description>
     </item>
     
     <item>
@@ -70,8 +70,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-go/</guid>
-      <description>The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.
-I regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers including me.</description>
+      <description>The Go language technical support team develops internal Go language libraries creates model cases, maintains CI / CD for Go, and so on.
+I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers, including me.</description>
     </item>
     
     <item>
@@ -80,8 +80,8 @@ I regularly lead study sessions to teach the other engineers about the Go langua
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-hr/</guid>
-      <description>In parallel to SWAT, I also belonged to the work department of talent strategy.
-I was in charge of advising the HR team on what kind of engineers are needed for Yahoo! Japan from the on-site engineer’s point of view and trend technology point of view.</description>
+      <description>In addition to SWAT, I also worked in the HR strategy work department.
+I was in charge of an advisor to the Human Resources Department. As an incumbent engineer, I worked on analysing the hiring demand of Yahoo Japan engineers by job type from two perspectives, technology and field perspective.</description>
     </item>
     
     <item>
@@ -90,11 +90,11 @@ I was in charge of advising the HR team on what kind of engineers are needed for
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-swat/</guid>
-      <description>SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company in order to resolve different internal technical problems.
-The details of the key projects are mentioned in below.
- In-house Centralized Customer Services Platform
-Architectural Adviser 2019&amp;frasl;6~2019&amp;frasl;8
-I supported new In-house centralized customer service platform team as an architectural adviser, we already have over 200 CS tools in our company, we cannnot improve cs quality and cannnot analyze cs datas, so we need new CS platform, that integrates whole functionality of current cs system and we have to care about CS data security and analytical data structure and data flow.</description>
+      <description>SWAT is a task force team gathering the most skilful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.
+The details of the key projects mentioned below.
+  In-house Centralized Customer Services Platform
+Architectural Adviser	2019/6~2019/8
+I supported the new In-house centralised customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality.</description>
     </item>
     
     <item>
@@ -103,11 +103,11 @@ I supported new In-house centralized customer service platform team as an archit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-techlab/</guid>
-      <description>Tech Lab is R&amp;amp;D department, we work closely with our services and provide new technology to services.
-Currently we work on video analysis &amp;amp; advertisement optimization by image analysis &amp;amp; shopping item recommendation by using image feature vector analysis.
+      <description>Tech Lab is the R&amp;amp;D department. We work closely with our services and provide new technology to services.
+Currently, we work on video analysis &amp;amp; advertisement optimisation by image analysis &amp;amp; shopping item recommendation by using image feature vector analysis.
  Next Generation Vector Search Engine Platform
-Founder &amp;amp; Lead Developer (Go/C++/Python/Kubernetes/OpenStack) 2019&amp;frasl;8~present
-Development of approximate k-nearest-neighbor graph-tree dense vector search engine, that can be used in a wide range of fields such as YahooJAPAN&amp;rsquo;s recommendation and image search and video analysis.</description>
+Founder &amp;amp; Lead Developer (Go/C++/Python/Kubernetes/OpenStack)	2019/8~present
+I&amp;rsquo;m working on the development of distributed approximation KNN graph and tree dense-vector search engine for large-scale vector data.</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@ Development of approximate k-nearest-neighbor graph-tree dense vector search eng
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-authorizer/</guid>
-      <description>Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorization check logic</description>
+      <description>Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorisation check logic.</description>
     </item>
     
     <item>
@@ -125,7 +125,7 @@ Development of approximate k-nearest-neighbor graph-tree dense vector search eng
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-client-sidecar/</guid>
-      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorization credential from Athenz server.</description>
+      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorisation credential from Athenz server.</description>
     </item>
     
     <item>
@@ -134,8 +134,8 @@ Development of approximate k-nearest-neighbor graph-tree dense vector search eng
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/authorization-proxy/</guid>
-      <description>Authorization Proxy is an implementation of Kubernetes sidecar container to provide a common interface for the user to do authentication and authorization check for specific URL resources.
-It caches the policies from Athenz, and provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject user&amp;rsquo;s specific URL request.</description>
+      <description>Authorization-Proxy is Kubernetes sidecar container to provide a common authentication and authorisation interface for the user. Which enables authentication and authorisation check for specific URL resources.
+It fetches the policies from yahoo&amp;rsquo;s Athenz. And provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject the user&amp;rsquo;s specific URL request.</description>
     </item>
     
     <item>
@@ -144,8 +144,8 @@ It caches the policies from Athenz, and provide a reverse proxy interface for th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/gache/</guid>
-      <description>gache is ultra fast lock-free cache library using concurrent map &amp;amp; xxhash algorithm.
-Gache is used in many Yahoo Japan &amp;rsquo;s Go language platforms.</description>
+      <description>gache is ultra-fast lock-free cache library using a concurrent map &amp;amp; xxhash algorithm.
+Gache is used in many of Yahoo Japan&amp;rsquo;s Go language platforms.</description>
     </item>
     
     <item>
@@ -154,7 +154,8 @@ Gache is used in many Yahoo Japan &amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/garm/</guid>
-      <description>Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones. Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</description>
+      <description>Garm is API for a Kubernetes authorisation webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.
+Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</description>
     </item>
     
     <item>
@@ -163,7 +164,7 @@ Gache is used in many Yahoo Japan &amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/gimbal/</guid>
-      <description>Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio &amp;amp; Yahoo Japan</description>
+      <description>Heptio Gimbal is an ingress load-balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio &amp;amp; Yahoo Japan.</description>
     </item>
     
     <item>
@@ -172,8 +173,8 @@ Gache is used in many Yahoo Japan &amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/glg/</guid>
-      <description>glg is faster than Go standard logger and provides leveled logging and colorized output option.
-Glg is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description>
+      <description>glg is faster than Go standard logger and provides levelled logging and colourised output option.
+Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</description>
     </item>
     
     <item>
@@ -182,7 +183,7 @@ Glg is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/gongt/</guid>
-      <description>Gongt is golang sdk for ngt core</description>
+      <description>Gongt is golang SDK for ngt core</description>
     </item>
     
     <item>
@@ -191,7 +192,7 @@ Glg is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/ngtd/</guid>
-      <description>NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan.</description>
+      <description>NGTD is a VectorDatabase that provides approximately neighbourhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now NGTD was replaced to Vald.</description>
     </item>
     
     <item>
@@ -200,7 +201,8 @@ Glg is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/vald/</guid>
-      <description>vald is high scalable distributed high-speed approximate nearest neighbor dense vector search engine. Yahoo! JAPAN uses vald for their similar image search engine.</description>
+      <description>Vald is high scalable distributed high-speed approximate nearest neighbour dense vector search engine.
+Yahoo! JAPAN uses vald for their similar image search engine.</description>
     </item>
     
     <item>
@@ -211,7 +213,7 @@ Glg is used by many Yahoo Japan &amp;rsquo;s Go language platforms.</description
       <guid>https://kpango.com/summary/</guid>
       <description>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s Tech Lab.
 My biggest strength is that I&amp;rsquo;m a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.
-I’m especially proficient in golang and besides a lot of experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
+I&amp;rsquo;m exceptionally proficient in golang, and besides much experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
     </item>
     
   </channel>

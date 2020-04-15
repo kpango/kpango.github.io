@@ -4,7 +4,7 @@
  <html lang="en"> 
 
 <head>
-	<meta name="generator" content="Hugo 0.59.0-DEV" />
+	<meta name="generator" content="Hugo 0.69.0-DEV" />
         <title>Yusuke Kato Resume</title>
     
     <meta charset="utf-8">
@@ -46,7 +46,7 @@ if (!doNotTrack) {
 		            <div class="profile-container">
                 <img class="profile img-circle" src="https://kpango.com/assets/images/profile.png" width="100%" alt="" />
                 <h1 class="name">Yusuke Kato</h1>
-                <h3 class="tagline">Tech Lab  (Lead Resarcher of Vector Search)</h3>
+                <h3 class="tagline">Tech Lab  (Lead Researcher of Vector Search)</h3>
             </div>
 
 
@@ -109,7 +109,7 @@ if (!doNotTrack) {
 				
                     <li>Programming</li>
 				
-                    <li>Traveling</li>
+                    <li>Travelling</li>
 				
                     <li>Cooking</li>
 				
@@ -131,9 +131,9 @@ if (!doNotTrack) {
 	            <section class="section summary-section">
                 <h2 class="section-title"><i class="fa fa-user"></i>Summary</h2>
                 <div class="summary">
-                    <p>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s Tech Lab.<br />
-My biggest strength is that I&rsquo;m a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.<br />
-I’m especially proficient in golang and besides a lot of experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</p>
+                    <p>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s Tech Lab.<br>
+My biggest strength is that I&rsquo;m a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.<br>
+I&rsquo;m exceptionally proficient in golang, and besides much experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</p>
                 </div>
             </section>
 
@@ -154,16 +154,16 @@ I’m especially proficient in golang and besides a lot of experience with diffe
                     </div>
                     <div class="details">
                         
-                        <p>Tech Lab is R&amp;D department, we work closely with our services and provide new technology to services.<br />
-Currently we work on video analysis &amp; advertisement optimization by image analysis &amp; shopping item recommendation by using image feature vector analysis.</p>
-
+                        <p><p>Tech Lab is the R&amp;D department. We work closely with our services and provide new technology to services.<br>
+Currently, we work on video analysis &amp; advertisement optimisation by image analysis &amp; shopping item recommendation by using image feature vector analysis.</p>
 <ul>
-<li><strong><em>Next Generation Vector Search Engine Platform<br />
-Founder &amp; Lead Developer (Go/C++/Python/Kubernetes/OpenStack)</em></strong>    <sup>2019</sup>&frasl;<sub>8</sub>~present<br />
-Development of approximate k-nearest-neighbor graph-tree dense vector search engine, that can be used in a wide range of fields such as YahooJAPAN&rsquo;s recommendation and image search and video analysis.<br />
-Although we already have similar technology called NGT/ngtd, but it&rsquo;s only supports running on a single server, and there was a problem that memory and CPU did not scale and was not suitable for distributed cloud environments.<br />
-So for now I&rsquo;m working on developing distributed dense vector search engine called Vald (Vector+Wald in german)</li>
-</ul></p>
+<li><em><strong>Next Generation Vector Search Engine Platform<br>
+Founder &amp; Lead Developer (Go/C++/Python/Kubernetes/OpenStack)</strong></em>	2019/8~present<br>
+I&rsquo;m working on the development of distributed approximation KNN graph and tree dense-vector search engine for large-scale vector data. Vald enables the similarity search for Yahoo Japan scale data. We use Vald in the recommendation platform, image search, and video analysis and text search by the vector.<br>
+Although we already have the similarity search technology called NGT/ngtd. It only supports running on a single server, and there was a problem that memory and CPU did not scale and was not suitable for distributed cloud environments.<br>
+So, for now, I&rsquo;m working on developing a distributed dense vector search engine called Vald (Vektor+Wald in german)</li>
+</ul>
+</p>
                     </div>
                 </div>
 				
@@ -177,60 +177,70 @@ So for now I&rsquo;m working on developing distributed dense vector search engin
                     </div>
                     <div class="details">
                         
-                        <p><p>SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company in order to resolve different internal technical problems.<br />
-The details of the key projects are mentioned in below.</p>
-
+                        <p><p>SWAT is a task force team gathering the most skilful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.<br>
+The details of the key projects mentioned below.</p>
 <ul>
-<li><p><strong><em>In-house Centralized Customer Services Platform<br />
-Architectural Adviser</em></strong>    <sup>2019</sup>&frasl;<sub>6</sub>~<sup>2019</sup>&frasl;<sub>8</sub><br />
-I supported new In-house centralized customer service platform team as an architectural adviser, we already have over 200 CS tools in our company, we cannnot improve cs quality and cannnot analyze cs datas, so we need new CS platform, that integrates whole functionality of current cs system and we have to care about CS data security and analytical data structure and data flow.<br />
-I have a lot of experiences about cloud environment and security and data analysis, so I gave a lot of advice about it.</p></li>
-
-<li><p><strong><em>Service Authorization Mesh Sidecar<br />
-Chief Architect &amp; Founder (Go/Kubernetes/CloudFoundry/OpenStack)</em></strong> <sup>2018</sup>&frasl;<sub>11</sub>~<sup>2019</sup>&frasl;<sub>7</sub><br />
-In Yahoo! JAPAN we uses Athenz as a SSoT RBAC source for service authorization and authentication.<br />
-It was difficult for internal engineers to implement authorization logic using Athenz, and in most cases it took 3 days to implement, and it was left to the engineers to decide whether to implement Athenz.<br />
-So, I thought creating a transparent authorization proxy that operates like ServiceMesh in the cloud environment.<br />
-I implemented it in a month, and I published it to our internal engineers.<br />
-As a result of it, internal engineers can deploy authorization functionality in 30 minutes and security certificates are managed by mesh sidecar.<br />
-It was written in golang and it is open sourced.</p></li>
-
-<li><p><strong><em>Kubernetes as a Service Authorization Platform Garm<br />
-Engineer &amp; Chief Architect (Go/Kubernetes)</em></strong>   <sup>2018</sup>&frasl;<sub>4</sub>~<sup>2018</sup>&frasl;<sub>11</sub><br />
-I have designed and developed Kubernetes Authorization Platform which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorization. that enables a lot of kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.<br />
-It was written in golang and it is open sourced.</p></li>
-
-<li><p><strong><em>Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt<br />
-Engineer &amp; Quality Engineer (Go/C++)</em></strong>    <sup>2017</sup>&frasl;<sub>10</sub>~<sup>2018</sup>&frasl;<sub>4</sub><br />
-I developed a general-purpose dense vector search engine called &ldquo;NGTD&rdquo;. User can register, search and delete vectors in NGTD via RESTful API and gRPC, at the same time, user can also quickly search for KNN vectors.<br />
-It can be used in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is written in golang and it is open sourced.</p></li>
-
-<li><p><strong><em>Yahoo! JAPAN Online EBook Store<br />
-Frontend Engineer (Vue.js/Nuxt.js)</em></strong>   <sup>2017</sup>&frasl;<sub>12</sub>~<sup>2018</sup>&frasl;<sub>2</sub><br />
-s a part of a large-scale project regarding of E-Book Japan Corporation (a subsidiary of Yahoo! JAPAN), I developed the web frontend of the ebook store mainly writing in vue.js, based on atomic design.</p></li>
-
-<li><p><strong><em>In-house A/B Testing Platform<br />
-Engineer &amp; Chief Architect (Go/C++/CloudFoundry)</em></strong> <sup>2017</sup>&frasl;<sub>10</sub>~<sup>2018</sup>&frasl;<sub>2</sub><br />
-I designed and developed a platform for A/B testing which is still used internally by Yahoo! JAPAN today.  The server architecture that I designed can withstand a minimum of 80000 req/sec in micro service architecture.<br />
-The software is written in Golang and running on CloudFoundry.  The internal algorithm provided a high-speed and flexible A/B testing platform for users using <a href="https://github.com/kpango/murmur3">murmur3</a> .</p></li>
-
-<li><p><strong><em>Yahoo! JAPAN Premium Member Advertising Platform<br />
-Engineer &amp; Chief Architect (Go/CloudFoundry)</em></strong> <sup>2017</sup>&frasl;<sub>5</sub>~<sup>2017</sup>&frasl;<sub>7</sub><br />
-I have developed and designed an advertising platform for Yahoo! JAPAN&rsquo;s premium members.<br />
-In the advertisement distribution, I was required to construct the plafrom with low-latency and high-speed delivery algorithm.  Also we a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch</p></li>
-
-<li><p><strong><em>Yahoo! JAPAN Auction<br />
-Android Engineer (Kotlin/Java)</em></strong>   <sup>2017</sup>&frasl;<sub>3</sub>~<sup>2017</sup>&frasl;<sub>9</sub><br />
-I joined Yahoo! JAPAN&rsquo;s auction team and worked on a large-scale renovation of the Android application.  I was responsible for rewriting Java to Kotlin and made changes to the applicaton which increased the number of daily active users.</p></li>
-
-<li><p><strong><em>Yahoo! JAPAN User Identifier Platform<br />
-Backend Engineer (C++)</em></strong>   <sup>2017</sup>&frasl;<sub>2</sub>~<sup>2017</sup>&frasl;<sub>3</sub><br />
-On Yahoo! JAPAN&rsquo;s user identifier platform, I was in charge of adding a function of a unique cookie algorithm to manage the ID of User.  Since the library was written in C ++ and it was an old source, we added a function while doing refactor.</p></li>
-
-<li><p><strong><em>Yahoo! JAPAN Mail<br />
-Backend Engineer (Java/Hbase/Zookeeper)</em></strong>  <sup>2016</sup>&frasl;<sub>4</sub>~<sup>2017</sup>&frasl;<sub>1</sub><br />
-Yahoo! Mail&rsquo;s backend engineering is the first project I joined SWAT.<br />
-There, I was developing / localizing the storage layer of the Yahoo! JAPAN Mail platform.  At that team, I also worked as scrum master.</p></li>
+<li>
+<p><em><strong>In-house Centralized Customer Services Platform<br>
+Architectural Adviser</strong></em>	2019/6~2019/8<br>
+I supported the new In-house centralised customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality. We can&rsquo;t analyse CS data across each CS platform, so we need a new CS platform, that integrates the full functionality of current cs system. We have to care about CS data security and analytical data structure and data flow.<br>
+I have many experiences about the cloud environment and security and data analysis, so I gave much advice about it.</p>
+</li>
+<li>
+<p><em><strong>Service Authorization Mesh Sidecar<br>
+Chief Architect &amp; Founder (Go/Kubernetes/CloudFoundry/OpenStack)</strong></em>	2018/11~2019/7<br>
+In Yahoo! JAPAN, we use Athenz as an SSoT RBAC source for service authorisation and authentication.<br>
+It was difficult for internal engineers to implement authorisation logic using Athenz. In most cases, it took three days to implement, and it was left to the engineers to decide whether to implement Athenz.<br>
+So, I thought to create a transparent authorisation proxy that operates like ServiceMesh in the cloud environment.<br>
+I implemented it in a month, and I published it to our internal engineers.<br>
+As a result, the in-house engineer can deploy the authorisation function in 30 minutes, and the mesh sidecar manages the security certificate.<br>
+It&rsquo;s open-source projet written in golang.</p>
+</li>
+<li>
+<p><em><strong>Kubernetes as a Service Authorization Platform Garm<br>
+Engineer &amp; Chief Architect (Go/Kubernetes)</strong></em>	2018/4~2018/11<br>
+I have designed and developed the Kubernetes Authorization Platform, which is called Garm. Base on the concept of SSoT, Garm can be integrated with Athenz and Kubernetes webhook authorisation. That enables a lot of Kubernetes clusters authentication management, and Yahoo! JAPAN currently manages over 450 Kubernetes clusters by using Garm. Garm is now running on all Kubernetes clusters in Yahoo! JAPAN.<br>
+It&rsquo;s open-source projet written in golang.</p>
+</li>
+<li>
+<p><em><strong>Approximate Neighborhood Graph Tree Vector Search Engine NGTD/Gongt<br>
+Engineer &amp; Quality Engineer (Go/C++)</strong></em>	2017/10~2018/4<br>
+I developed a general-purpose dense vector search engine called &ldquo;NGTD&rdquo;. User can register, search and delete vectors in NGTD via RESTful API and gRPC at the same time, user can also quickly search for KNN vectors.<br>
+It can use in a wide range of fields such as similar image retrieval and advertisement recommendation in Yahoo! JAPAN. NGTD is open-source projet written in golang.</p>
+</li>
+<li>
+<p><em><strong>Yahoo! JAPAN Online EBook Store<br>
+Frontend Engineer (Vue.js/Nuxt.js)</strong></em>	2017/12~2018/2<br>
+As a part of a large-scale project regarding of E-Book Japan Corporation (a subsidiary of Yahoo! JAPAN), I developed the web frontend of the ebook store mainly writing in vue.js, based on atomic design.</p>
+</li>
+<li>
+<p><em><strong>In-house A/B Testing Platform<br>
+Engineer &amp; Chief Architect (Go/C++/CloudFoundry)</strong></em>	2017/10~2018/2<br>
+I designed and developed a platform for A/B testing which is still used internally by Yahoo! JAPAN today. The server architecture that I designed can withstand a minimum of 80000 req/sec in a microservice architecture.<br>
+The software is written in Golang and running on CloudFoundry. The internal algorithm provided a high-speed and flexible A/B testing platform for users using <a href="https://github.com/kpango/murmur3">murmur3</a>.</p>
+</li>
+<li>
+<p><em><strong>Yahoo! JAPAN Premium Member Advertising Platform<br>
+Engineer &amp; Chief Architect (Go/CloudFoundry)</strong></em>	2017/5~2017/7<br>
+I have developed and designed an advertising platform for Yahoo! JAPAN&rsquo;s premium members.<br>
+In the advertisement distribution, I developed the platform with low-latency and high-speed delivery algorithm. Also, we use a lock-free Concurrent Map for speed. I created the entire architect and microcomponents from scratch.</p>
+</li>
+<li>
+<p><em><strong>Yahoo! JAPAN Auction<br>
+Android Engineer (Kotlin/Java)</strong></em>	2017/3~2017/9<br>
+I joined Yahoo! JAPAN&rsquo;s auction team and worked on a large-scale renovation of the Android application. I was responsible for rewriting Java to Kotlin. I made changes to the application, which increased the number of daily active users.</p>
+</li>
+<li>
+<p><em><strong>Yahoo! JAPAN User Identifier Platform<br>
+Backend Engineer (C++)</strong></em>	2017/2~2017/3<br>
+In Yahoo! JAPAN&rsquo;s user ID platform, I was in charge of adding the function of a unique cookie algorithm that manages user IDs. The library was written in C ++ and was an old source, so I added a feature with refactoring.</p>
+</li>
+<li>
+<p><em><strong>Yahoo! JAPAN Mail<br>
+Backend Engineer (Java/Hbase/Zookeeper)</strong></em>	2016/4~2017/1<br>
+Yahoo! Mail&rsquo;s backend engineering is the first project I joined SWAT.<br>
+There, I was developing/localising the storage layer of the Yahoo! JAPAN Mail platform. At that team, I also worked as a scrum master.</p>
+</li>
 </ul>
 </p>
                     </div>
@@ -246,8 +256,8 @@ There, I was developing / localizing the storage layer of the Yahoo! JAPAN Mail 
                     </div>
                     <div class="details">
                         
-                        <p>The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.<br />
-I regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers including me.</p>
+                        <p>The Go language technical support team develops internal Go language libraries creates model cases, maintains CI / CD for Go, and so on.<br>
+I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers, including me.</p>
                     </div>
                 </div>
 				
@@ -261,8 +271,8 @@ I regularly lead study sessions to teach the other engineers about the Go langua
                     </div>
                     <div class="details">
                         
-                        <p>In parallel to SWAT, I also belonged to the work department of talent strategy.<br />
-I was in charge of advising the HR team on what kind of engineers are needed for Yahoo! Japan from the on-site engineer’s point of view and trend technology point of view.</p>
+                        <p>In addition to SWAT, I also worked in the HR strategy work department.<br>
+I was in charge of an advisor to the Human Resources Department. As an incumbent engineer, I worked on analysing the hiring demand of Yahoo Japan engineers by job type from two perspectives, technology and field perspective.</p>
                     </div>
                 </div>
 				
@@ -276,7 +286,7 @@ I was in charge of advising the HR team on what kind of engineers are needed for
                     </div>
                     <div class="details">
                         
-                        <p>I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team, and developed the deployment prediction software creating my own feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.</p>
+                        <p>I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team. I developed the deployment prediction software creating my feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.</p>
                     </div>
                 </div>
 				
@@ -290,7 +300,7 @@ I was in charge of advising the HR team on what kind of engineers are needed for
                     </div>
                     <div class="details">
                         
-                        <p>As an internship, I gained experience in the development of EC site back-end systems, in-house Q&amp;A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;A system and learnt to lead a team.</p>
+                        <p>As an internship, I gained experience in the development of EC site backend systems, in-house Q&amp;A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;A system and learnt to lead a team.</p>
                     </div>
                 </div>
 				
@@ -304,54 +314,53 @@ I was in charge of advising the HR team on what kind of engineers are needed for
                 <h2 class="section-title"><i class="fa fa-archive"></i>OSS Projects</h2>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/kpango/glg">Glg</a></span> - <span class="project-tagline"><p>glg is faster than Go standard logger and provides leveled logging and colorized output option.</p>
-
-<p>Glg is used by many Yahoo Japan &rsquo;s Go language platforms.</p>
+                    <span class="project-title"><a href="https://github.com/kpango/glg">Glg</a></span> - <span class="project-tagline"><p>glg is faster than Go standard logger and provides levelled logging and colourised output option.</p>
+<p>Glg is used by many of Yahoo Japan&rsquo;s Go language platforms.</p>
 </span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/kpango/gache">Gache</a></span> - <span class="project-tagline"><p>gache is ultra fast lock-free cache library using concurrent map &amp; xxhash algorithm.</p>
-
-<p>Gache is used in many Yahoo Japan &rsquo;s Go language platforms.</p>
+                    <span class="project-title"><a href="https://github.com/kpango/gache">Gache</a></span> - <span class="project-tagline"><p>gache is ultra-fast lock-free cache library using a concurrent map &amp; xxhash algorithm.</p>
+<p>Gache is used in many of Yahoo Japan&rsquo;s Go language platforms.</p>
 </span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/vdaas/vald">Vald</a></span> - <span class="project-tagline">vald is high scalable distributed high-speed approximate nearest neighbor dense vector search engine.
-Yahoo! JAPAN uses vald for their similar image search engine.</span>
-                </div>
-				
-                <div class="item">
-                    <span class="project-title"><a href="https://github.com/yahoojapan/garm">Garm</a></span> - <span class="project-tagline">Garm is API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.
-Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</span>
-                </div>
-				
-                <div class="item">
-                    <span class="project-title"><a href="https://github.com/yahoojapan/athenz-authorizer">Athenz Authorizer</a></span> - <span class="project-tagline">Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorization check logic</span>
-                </div>
-				
-                <div class="item">
-                    <span class="project-title"><a href="https://github.com/yahoojapan/authorization-proxy">Athenz Authorization Proxy</a></span> - <span class="project-tagline"><p>Authorization Proxy is an implementation of Kubernetes sidecar container to provide a common interface for the user to do authentication and authorization check for specific URL resources.</p>
-
-<p>It caches the policies from Athenz, and provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject user&rsquo;s specific URL request.</p>
+                    <span class="project-title"><a href="https://github.com/vdaas/vald">Vald</a></span> - <span class="project-tagline"><p>Vald is high scalable distributed high-speed approximate nearest neighbour dense vector search engine.</p>
+<p>Yahoo! JAPAN uses vald for their similar image search engine.</p>
 </span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/yahoojapan/athenz-client-sidecar">Athenz Client Sidecar</a></span> - <span class="project-tagline">Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorization credential from Athenz server.</span>
+                    <span class="project-title"><a href="https://github.com/yahoojapan/garm">Garm</a></span> - <span class="project-tagline"><p>Garm is API for a Kubernetes authorisation webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.</p>
+<p>Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</p>
+</span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/yahoojapan/ngtd">NGTD</a></span> - <span class="project-tagline">NGTD is a VectorDatabase that provides approximate neighborhood search of dense vectors via REST / gRPC and is used as a core function of similar image search and recommendation engine of Yahoo Japan.</span>
+                    <span class="project-title"><a href="https://github.com/yahoojapan/athenz-authorizer">Athenz Authorizer</a></span> - <span class="project-tagline">Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorisation check logic.</span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/yahoojapan/gongt">gongt</a></span> - <span class="project-tagline">Gongt is golang sdk for ngt core</span>
+                    <span class="project-title"><a href="https://github.com/yahoojapan/authorization-proxy">Athenz Authorization Proxy</a></span> - <span class="project-tagline"><p>Authorization-Proxy is Kubernetes sidecar container to provide a common authentication and authorisation interface for the user. Which enables authentication and authorisation check for specific URL resources.</p>
+<p>It fetches the policies from yahoo&rsquo;s Athenz. And provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject the user&rsquo;s specific URL request.</p>
+</span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://github.com/heptio/gimbal">Gimbal</a></span> - <span class="project-tagline">Heptio Gimbal is an ingress load balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio &amp; Yahoo Japan</span>
+                    <span class="project-title"><a href="https://github.com/yahoojapan/athenz-client-sidecar">Athenz Client Sidecar</a></span> - <span class="project-tagline">Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorisation credential from Athenz server.</span>
+                </div>
+				
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/yahoojapan/ngtd">NGTD</a></span> - <span class="project-tagline">NGTD is a VectorDatabase that provides approximately neighbourhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now NGTD was replaced to Vald.</span>
+                </div>
+				
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/yahoojapan/gongt">gongt</a></span> - <span class="project-tagline">Gongt is golang SDK for ngt core</span>
+                </div>
+				
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/heptio/gimbal">Gimbal</a></span> - <span class="project-tagline">Heptio Gimbal is an ingress load-balancing platform capable of routing traffic to multiple Kubernetes and OpenStack clusters. Built by Heptio in partnership with Actapio &amp; Yahoo Japan.</span>
                 </div>
 				
             </section>
@@ -366,19 +375,19 @@ Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manag
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://www.facebook.com/PwCJapan/posts/1234088506626798">Championship award at PwC&#39;s Technology Hackathon 2017</a></span> - <span class="project-tagline">Our team has developed a sharing time SNS called &ldquo;SMILE MILE&rdquo;. &ldquo;SMILE MILE&rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, &amp; evaluate &ldquo;degree of smile&rdquo;, and users can stock &ldquo;smile miles&rdquo;.</span>
+                    <span class="project-title"><a href="https://www.facebook.com/PwCJapan/posts/1234088506626798">Championship award at PwC&#39;s Technology Hackathon 2017</a></span> - <span class="project-tagline">Our team has developed a sharing time SNS called &ldquo;SMILE MILE&rdquo;. &ldquo;SMILE MILE&rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp; evaluate &ldquo;degree of smile&rdquo;, and users can stock &ldquo;smile miles&rdquo;.</span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://www.facebook.com/SBCloud/photos/a.1092206347516664/1108994632504502/?type=1&amp;theater">Championship award at SB Cloud Hackathon 2016</a></span> - <span class="project-tagline">Our team has developed a sharing time SNS called &ldquo;SMILE MILE&rdquo;. &ldquo;SMILE MILE&rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, &amp; evaluate &ldquo;degree of smile&rdquo;, and users can stock &ldquo;smile miles&rdquo;.</span>
+                    <span class="project-title"><a href="https://www.facebook.com/SBCloud/photos/a.1092206347516664/1108994632504502/?type=1&amp;theater">Championship award at SB Cloud Hackathon 2016</a></span> - <span class="project-tagline">Our team has developed a sharing time SNS called &ldquo;SMILE MILE&rdquo;. &ldquo;SMILE MILE&rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp; evaluate &ldquo;degree of smile&rdquo;, and users can stock &ldquo;smile miles&rdquo;.</span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://givery.co.jp/press/821/">Second place at AngelHack JP 2016</a></span> - <span class="project-tagline">Our team has developed an automatic photo organizing application. It is an application that makes it easy to see the album by analyzing the image of the photo and performing appropriate foldering. For core functions, we perform machine learning and Vector Search using NGT, and we conduct similarity comparison via API.</span>
+                    <span class="project-title"><a href="https://givery.co.jp/press/821/">Second place at AngelHack JP 2016</a></span> - <span class="project-tagline">Our team has developed an automatic photo organisation application. It is an application that makes it easier to see the album by analysing the images of the photos, classifying them appropriately, and saving them in the collection. Regarding core functions, we perform machine learning using NGT and vector search and achieve a similar comparison using API.</span>
                 </div>
 				
                 <div class="item">
-                    <span class="project-title"><a href="https://hacku.yahoo.co.jp/tokai2014/">Technical award at HackU from Yahoo! Japan 2014</a></span> - <span class="project-tagline">I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and bluetooth technology</span>
+                    <span class="project-title"><a href="https://hacku.yahoo.co.jp/tokai2014/">Technical award at HackU from Yahoo! Japan 2014</a></span> - <span class="project-tagline">I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and Bluetooth technology.</span>
                 </div>
 				
             </section>

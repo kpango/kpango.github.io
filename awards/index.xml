@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Awards on </title>
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/angelhack-2016/</guid>
-      <description>Our team has developed an automatic photo organizing application. It is an application that makes it easy to see the album by analyzing the image of the photo and performing appropriate foldering. For core functions, we perform machine learning and Vector Search using NGT, and we conduct similarity comparison via API.</description>
+      <description>Our team has developed an automatic photo organisation application. It is an application that makes it easier to see the album by analysing the images of the photos, classifying them appropriately, and saving them in the collection. Regarding core functions, we perform machine learning using NGT and vector search and achieve a similar comparison using API.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/hacku-2014/</guid>
-      <description>I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and bluetooth technology</description>
+      <description>I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using bidirectional miscommunication called Ripple using Android and Bluetooth technology.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/pwc-2017/</guid>
-      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
+      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/sbcloud-2016/</guid>
-      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
+      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
     </item>
     
   </channel>

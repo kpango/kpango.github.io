@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,102 +8,82 @@
   
   <url>
     <loc>https://kpango.com/awards/angelhack-2016/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/awards/hacku-2014/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/awards/pwc-2017/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/awards/sbcloud-2016/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/nojima/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/softbank/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/yahoo-go/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/yahoo-hr/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/yahoo-swat/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/experiences/yahoo-techlab/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/athenz-authorizer/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/athenz-client-sidecar/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/authorization-proxy/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/gache/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/garm/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/gimbal/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/glg/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/gongt/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/ngtd/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kpango.com/projects/vald/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

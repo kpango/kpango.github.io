@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiences on </title>
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/nojima/</guid>
-      <description>As an internship, I gained experience in the development of EC site back-end systems, in-house Q&amp;amp;A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;amp;A system and learnt to lead a team.</description>
+      <description>As an internship, I gained experience in the development of EC site backend systems, in-house Q&amp;amp;A systems and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;amp;A system and learnt to lead a team.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/softbank/</guid>
-      <description>I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team, and developed the deployment prediction software creating my own feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.</description>
+      <description>I was in charge of the deployment design and network construction design of the multi-service access node nationwide on the access node team. I developed the deployment prediction software creating my feedback algorithm. This algorithm can predict the number of servers so that the equipment of the ring network and construction can be adjusted accordingly.</description>
     </item>
     
     <item>
@@ -34,8 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-go/</guid>
-      <description>The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.
-I regularly lead study sessions to teach the other engineers about the Go language. In these workshops all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers including me.</description>
+      <description>The Go language technical support team develops internal Go language libraries creates model cases, maintains CI / CD for Go, and so on.
+I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers, including me.</description>
     </item>
     
     <item>
@@ -44,8 +44,8 @@ I regularly lead study sessions to teach the other engineers about the Go langua
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-hr/</guid>
-      <description>In parallel to SWAT, I also belonged to the work department of talent strategy.
-I was in charge of advising the HR team on what kind of engineers are needed for Yahoo! Japan from the on-site engineer’s point of view and trend technology point of view.</description>
+      <description>In addition to SWAT, I also worked in the HR strategy work department.
+I was in charge of an advisor to the Human Resources Department. As an incumbent engineer, I worked on analysing the hiring demand of Yahoo Japan engineers by job type from two perspectives, technology and field perspective.</description>
     </item>
     
     <item>
@@ -54,11 +54,11 @@ I was in charge of advising the HR team on what kind of engineers are needed for
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-swat/</guid>
-      <description>SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company in order to resolve different internal technical problems.
-The details of the key projects are mentioned in below.
- In-house Centralized Customer Services Platform
-Architectural Adviser 2019&amp;frasl;6~2019&amp;frasl;8
-I supported new In-house centralized customer service platform team as an architectural adviser, we already have over 200 CS tools in our company, we cannnot improve cs quality and cannnot analyze cs datas, so we need new CS platform, that integrates whole functionality of current cs system and we have to care about CS data security and analytical data structure and data flow.</description>
+      <description>SWAT is a task force team gathering the most skilful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.
+The details of the key projects mentioned below.
+  In-house Centralized Customer Services Platform
+Architectural Adviser	2019/6~2019/8
+I supported the new In-house centralised customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality.</description>
     </item>
     
     <item>
@@ -67,11 +67,11 @@ I supported new In-house centralized customer service platform team as an archit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-techlab/</guid>
-      <description>Tech Lab is R&amp;amp;D department, we work closely with our services and provide new technology to services.
-Currently we work on video analysis &amp;amp; advertisement optimization by image analysis &amp;amp; shopping item recommendation by using image feature vector analysis.
+      <description>Tech Lab is the R&amp;amp;D department. We work closely with our services and provide new technology to services.
+Currently, we work on video analysis &amp;amp; advertisement optimisation by image analysis &amp;amp; shopping item recommendation by using image feature vector analysis.
  Next Generation Vector Search Engine Platform
-Founder &amp;amp; Lead Developer (Go/C++/Python/Kubernetes/OpenStack) 2019&amp;frasl;8~present
-Development of approximate k-nearest-neighbor graph-tree dense vector search engine, that can be used in a wide range of fields such as YahooJAPAN&amp;rsquo;s recommendation and image search and video analysis.</description>
+Founder &amp;amp; Lead Developer (Go/C++/Python/Kubernetes/OpenStack)	2019/8~present
+I&amp;rsquo;m working on the development of distributed approximation KNN graph and tree dense-vector search engine for large-scale vector data.</description>
     </item>
     
   </channel>
