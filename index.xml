@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/pwc-2017/</guid>
-      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
+      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/sbcloud-2016/</guid>
-      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyse facial images by machine learning, &amp;amp; evaluate &amp;ldquo;degree of smile&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
+      <description>Our team has developed an online medical passport called &amp;ldquo;MediPass&amp;rdquo;. &amp;ldquo;MediPass&amp;rdquo; is an Android application that allows you to save your personal medical history online. It is convenient because you can share your medical history across countries when traveling or living abroad. We won the Championship Award and got great feedback from Eric Gun. I learned how to make business solutions in the medical field.</description>
     </item>
     
     <item>
@@ -90,11 +90,11 @@ I was in charge of an advisor to the Human Resources Department. As an incumbent
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-swat/</guid>
-      <description>SWAT is a task force team gathering the most skilful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.
+      <description>SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.
 The details of the key projects mentioned below.
   In-house Centralized Customer Services Platform
 Architectural Adviser	2019/6~2019/8
-I supported the new In-house centralised customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality.</description>
+I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality.</description>
     </item>
     
     <item>
@@ -211,7 +211,7 @@ Yahoo! JAPAN uses vald for their similar image search engine.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/summary/</guid>
-      <description>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan’s Tech Lab.
+      <description>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan&amp;rsquo;s Tech Lab.
 My biggest strength is that I&amp;rsquo;m a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.
 I&amp;rsquo;m exceptionally proficient in golang, and besides much experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
     </item>
