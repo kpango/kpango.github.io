@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/hacku-2014/</guid>
-      <description>I participated in Hackathon for students sponsored by Yahoo Japan and received technology prize. Our team has developed an SNS using a two-way crossing mesh network called Ripple using Android and Bluetooth technology.</description>
+      <description>I participated in Hackathon for students sponsored by Yahoo Japan and received a technology prize. Our team has developed an SNS using a two-way crossing mesh network called Ripple it uses Android and Bluetooth technology.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/awards/pwc-2017/</guid>
-      <description>Our team has developed a sharing time SNS called “SMILE MILE&amp;rdquo;. “SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we analyze facial images by machine learning &amp;amp; evaluate “degree of smile&amp;rdquo;, and users can stock “smile miles&amp;rdquo;.</description>
+      <description>Our team has developed a sharing time SNS called &amp;ldquo;SMILE MILE&amp;rdquo;. &amp;ldquo;SMILE MILE&amp;rdquo; is an application that can find people who act with me at events such as Tokyo 2020. Finally, when two people take pictures, we can analyze facial images by machine learning &amp;amp; evaluate &amp;ldquo;degree of smiling&amp;rdquo;, and users can stock &amp;ldquo;smile miles&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/nojima/</guid>
-      <description>As an internship, I gained experience in the development of EC site backend systems, in-house Q&amp;amp;A systems, and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;amp;A system and learned to lead a team.</description>
+      <description>As an intern, I gained experience in the development of EC site backend systems, in-house Q&amp;amp;A systems, and PoS systems. Furthermore, I also got the opportunity to be the internship team leader for the Q&amp;amp;A system and learned to lead a team.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       
       <guid>https://kpango.com/experiences/yahoo-go/</guid>
       <description>The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.
-I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. To the largest study meeting came more than 200 in-house engineers, including me.</description>
+I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. At the largest study meeting, more than 200 in-house engineers attended, including myself.</description>
     </item>
     
     <item>
@@ -89,8 +89,8 @@ I regularly lead study sessions to teach the other engineers about the Go langua
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/experiences/yahoo-hr/</guid>
-      <description>In addition to SWAT, I also worked in the HR strategy work department.
-I was in charge of an advisor to the Human Resources Department. As an incumbent engineer, I worked on analyzing the hiring demand of Yahoo Japan engineers by job type from two perspectives, technology and field perspective.</description>
+      <description>In addition to SWAT, I also worked in the HR Strategy department.
+I was an advisor to the Human Resources Department. As an incumbent engineer, I worked on analyzing the hiring demand of Yahoo Japan engineers by job type from two perspectives, technology and field perspective.</description>
     </item>
     
     <item>
@@ -100,10 +100,10 @@ I was in charge of an advisor to the Human Resources Department. As an incumbent
       
       <guid>https://kpango.com/experiences/yahoo-swat/</guid>
       <description>SWAT is a task force team gathering the most skillful internal engineers. SWAT participates in various projects inside the company to resolve different internal technical problems.
-The details of the key projects mentioned below.
+The details of the key projects are mentioned below.
   In-house Centralized Customer Services Platform
 Architectural Adviser	2019/6~2019/8
-I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. We can not improve CS quality.</description>
+I supported the new In-house centralized customer service platform team as an architectural adviser, and we already have over 200 CS tools in our company. It was not possible for us to improve CS quality.</description>
     </item>
     
     <item>
@@ -124,7 +124,7 @@ Responsible for managing the Technology Incubation team&amp;rsquo;s advanced tec
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-authorizer/</guid>
-      <description>Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
+      <description>Athenz authorizer is a library for golang that manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
     </item>
     
     <item>
@@ -133,7 +133,7 @@ Responsible for managing the Technology Incubation team&amp;rsquo;s advanced tec
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-client-sidecar/</guid>
-      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
+      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container and provides a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
     </item>
     
     <item>
@@ -142,8 +142,8 @@ Responsible for managing the Technology Incubation team&amp;rsquo;s advanced tec
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/authorization-proxy/</guid>
-      <description>Authorization-Proxy is Kubernetes sidecar container to provide a common authentication and authorization interface for the user. Which enables authentication and authorization check for specific URL resources.
-It fetches the policies from yahoo&amp;rsquo;s Athenz. And provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject the user&amp;rsquo;s specific URL request.</description>
+      <description>Authorization-Proxy is Kubernetes sidecar container ant provides a common authentication and authorization interface for the user. which enables authentication and authorization checks for specific URL resources.
+It fetches the policies from yahoo&amp;rsquo;s Athenz. Then it provides a reverse proxy interface for the user to authenticate the role token written on the request header, in order to allow or reject the user&amp;rsquo;s specific URL request.</description>
     </item>
     
     <item>
@@ -200,7 +200,7 @@ Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/ngtd/</guid>
-      <description>NGTD is a VectorDatabase that provides approximately neighborhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now, NGTD will replace with Vald.</description>
+      <description>NGTD is a VectorDatabase that provides approximately neighborhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now, NGTD will be replaced with Vald.</description>
     </item>
     
     <item>
@@ -221,7 +221,7 @@ Yahoo! JAPAN uses vald for their similar image search engine.</description>
       <guid>https://kpango.com/summary/</guid>
       <description>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan&amp;rsquo;s Technology Incubation.
 My biggest strength is that I&amp;rsquo;m a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.
-I&amp;rsquo;m exceptionally proficient in golang, and besides much experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
+I&amp;rsquo;m exceptionally proficient in golang, and in addition to possessing abundant experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
     </item>
     
   </channel>

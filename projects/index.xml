@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-authorizer/</guid>
-      <description>Athenz authorizer is a library for golang to manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
+      <description>Athenz authorizer is a library for golang that manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-client-sidecar/</guid>
-      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container to provide a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
+      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container and provides a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
     </item>
     
     <item>
@@ -34,8 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/authorization-proxy/</guid>
-      <description>Authorization-Proxy is Kubernetes sidecar container to provide a common authentication and authorization interface for the user. Which enables authentication and authorization check for specific URL resources.
-It fetches the policies from yahoo&amp;rsquo;s Athenz. And provide a reverse proxy interface for the user to authenticate the role token written on the request header, to allow or reject the user&amp;rsquo;s specific URL request.</description>
+      <description>Authorization-Proxy is Kubernetes sidecar container ant provides a common authentication and authorization interface for the user. which enables authentication and authorization checks for specific URL resources.
+It fetches the policies from yahoo&amp;rsquo;s Athenz. Then it provides a reverse proxy interface for the user to authenticate the role token written on the request header, in order to allow or reject the user&amp;rsquo;s specific URL request.</description>
     </item>
     
     <item>
@@ -92,7 +92,7 @@ Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/ngtd/</guid>
-      <description>NGTD is a VectorDatabase that provides approximately neighborhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now, NGTD will replace with Vald.</description>
+      <description>NGTD is a VectorDatabase that provides approximately neighborhood search of dense vectors via REST / gRPC. was used as a core function of similar image search and recommendation engine of Yahoo Japan. now, NGTD will be replaced with Vald.</description>
     </item>
     
     <item>
