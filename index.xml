@@ -133,7 +133,7 @@ Responsible for managing the Technology Incubation team&amp;rsquo;s advanced tec
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-client-sidecar/</guid>
-      <description>Athenz client sidecar is an implementation of Kubernetes sidecar container and provides a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
+      <description>Athenz client sidecar is an implementation of Kubernetes&amp;rsquo;s sidecar container and provides a common interface to retrieve authentication and authorization credentials from the Athenz server.</description>
     </item>
     
     <item>
@@ -142,7 +142,7 @@ Responsible for managing the Technology Incubation team&amp;rsquo;s advanced tec
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/authorization-proxy/</guid>
-      <description>Authorization-Proxy is Kubernetes sidecar container ant provides a common authentication and authorization interface for the user. which enables authentication and authorization checks for specific URL resources.
+      <description>Authorization-Proxy is Kubernetes&amp;rsquo;s sidecar container ant provides a common authentication and authorization interface for the user. which enables authentication and authorization checks for specific URL resources.
 It fetches the policies from yahoo&amp;rsquo;s Athenz. Then it provides a reverse proxy interface for the user to authenticate the role token written on the request header, in order to allow or reject the user&amp;rsquo;s specific URL request.</description>
     </item>
     
