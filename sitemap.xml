@@ -1,118 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kpango.com/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/awards/angelhack-2016/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/awards/hacku-2014/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/awards/ipsj-iaa-2019/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/awards/pwc-2017/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/awards/sbcloud-2016/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/nojima/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/softbank/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/yahoo-go/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/yahoo-hr/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/yahoo-swat/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/yahoo-techlab/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/athenz-authorizer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/athenz-client-sidecar/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/authorization-proxy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/gache/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/garm/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/gimbal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/glg/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/gongt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/ngtd/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/vald/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/summary/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/awards/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/experiences/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kpango.com/tags/</loc>
   </url>
-  
 </urlset>

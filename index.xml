@@ -5,11 +5,7 @@
     <link>https://kpango.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://kpango.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://kpango.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://kpango.com/awards/angelhack-2016/</link>
@@ -80,7 +76,7 @@
       
       <guid>https://kpango.com/experiences/yahoo-go/</guid>
       <description>The Go language technical support team develops internal Go language libraries, creates model cases, maintains CI / CD for Go, and so on.
-I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning golang or getting better at it. At the largest study meeting, more than 200 in-house engineers attended, including myself.</description>
+I regularly lead study sessions to teach the other engineers about the Go language. In these workshops, all attendees from beginners to intermediates can focus on learning Go or getting better at it. At the largest study meeting, more than 200 in-house engineers attended, including myself.</description>
     </item>
     
     <item>
@@ -124,7 +120,7 @@ Responsible for managing the Technology Incubation team&amp;rsquo;s advanced tec
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/athenz-authorizer/</guid>
-      <description>Athenz authorizer is a library for golang that manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
+      <description>Athenz authorizer is a library for Go that manages the policies and certificate of Athenz, and provides authentication and authorization check logic.</description>
     </item>
     
     <item>
@@ -191,7 +187,7 @@ Glg is used by many of Yahoo Japan&amp;rsquo;s Go language platforms.</descripti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/gongt/</guid>
-      <description>Gongt is golang SDK for ngt core</description>
+      <description>Gongt is Go SDK for ngt core</description>
     </item>
     
     <item>
@@ -221,7 +217,7 @@ Yahoo! JAPAN uses vald for their similar image search engine.</description>
       <guid>https://kpango.com/summary/</guid>
       <description>I have numerous responsibilities regarding the development and system architecture using a wide range of technologies at Yahoo Japan&amp;rsquo;s Technology Incubation.
 My biggest strength is that I&amp;rsquo;m a fast learner and can easily use new technology. Even if I get assigned to a new project and have to use unfamiliar technology, I can take over the leadership of this project in less than one week.
-I&amp;rsquo;m exceptionally proficient in golang, and in addition to possessing abundant experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
+I&amp;rsquo;m exceptionally proficient in Go, and in addition to possessing abundant experience with different programming languages, I also have a profound knowledge starting from infrastructures such as Kubernetes, OpenStack, to vector search engines like Vald.</description>
     </item>
     
   </channel>
