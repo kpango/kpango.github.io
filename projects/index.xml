@@ -50,7 +50,7 @@ Gache is used in many of Yahoo Japan&amp;rsquo;s Go language platforms.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kpango.com/projects/garm/</guid>
-      <description>Garm is an API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from K8s resources to Athenz ones.
+      <description>Garm is an API for a Kubernetes authorization webhook that integrates with Athenz for access checks. It allows flexible resource mapping from Kubernetes resources to Athenz ones.
 Yahoo Japan uses Garm and Kubernetes AccessReview Webhook to integrate and manage hundreds of large Kubernetes clusters based on the concept of SSoT.</description>
     </item>
     
