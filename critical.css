@@ -117,10 +117,6 @@ ul {
     list-style: none
 }
 
-@-ms-viewport {
-    width: device-width
-}
-
 a {
     background-color: transparent
 }
